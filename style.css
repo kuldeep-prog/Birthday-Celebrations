@@ -82,7 +82,7 @@ h1 span {
   }
 
   .riya-photo {
-     width: 300px; 
+     width: 500px; 
   }
 
   #startBtn {
@@ -91,13 +91,13 @@ h1 span {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 800px) {
   h1 {
     font-size: 2rem;
   }
 
   .riya-photo {
-     width: 300px; 
+     width: 500px; 
   }
 
   #startBtn {
